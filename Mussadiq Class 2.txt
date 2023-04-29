@@ -1,0 +1,299 @@
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ pwd
+/c/Users/Administrator
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ ls
+'3D Objects'/         Documents/        'My Documents'@                                                                                 OneDrive/       SendTo@           ntuser.dat.LOG2
+ AppData/             Downloads/         NTUSER.DAT                                                                                     Pictures/      'Start Menu'@      ntuser.ini
+'Application Data'@   Favorites/         NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        PrintHood@      Templates@
+ Contacts/            Links/             NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   Recent@        'VS Class 1'/
+ Cookies@            'Local Settings'@   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms  'Saved Games'/   Videos/
+ Desktop/             Music/             NetHood@                                                                                       Searches/       ntuser.dat.LOG1
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ cd Documents/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ ls
+'My Music'@  'My Pictures'@  'My Videos'@  'Visual Code'/   desktop.ini
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ cd mussadiq css html
+bash: cd: too many arguments
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ cd ..
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ ls
+'3D Objects'/         Documents/        'My Documents'@                                                                                 OneDrive/       SendTo@           ntuser.dat.LOG2
+ AppData/             Downloads/         NTUSER.DAT                                                                                     Pictures/      'Start Menu'@      ntuser.ini
+'Application Data'@   Favorites/         NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        PrintHood@      Templates@
+ Contacts/            Links/             NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   Recent@        'VS Class 1'/
+ Cookies@            'Local Settings'@   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms  'Saved Games'/   Videos/
+ Desktop/             Music/             NetHood@                                                                                       Searches/       ntuser.dat.LOG1
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ cd Documents/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ cd class
+bash: cd: class: No such file or directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ mkdir class1
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ ls
+'My Music'@  'My Pictures'@  'My Videos'@  'Visual Code'/   class1/   desktop.ini
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ cd class1
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ cd css html java python
+bash: cd: too many arguments
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ mkdir css html java
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+css/  html/  java/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ touch java
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+css/  html/  java/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ touch mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+css/  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ toch farhana.css tora.html
+bash: toch: command not found
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ touch farhan.css tora.html
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+css/  farhan.css  html/  java/  mussadiq.dom  tora.html
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ touch country.xl
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+country.xl  css/  farhan.css  html/  java/  mussadiq.dom  tora.html
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ mkdir Mussadiq
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  css/  farhan.css  html/  java/  mussadiq.dom  tora.html
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm tora.html
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  css/  farhan.css  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm farhan.doc
+rm: cannot remove 'farhan.doc': No such file or directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm farhan.css
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  css/  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm-r mussadiq
+bash: rm-r: command not found
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm -r Mussadiq
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+country.xl  css/  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ mkdir Mussadiq
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  css/  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ mkdir Farhan
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Farhan/  Mussadiq/  country.xl  css/  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm -r Farhan
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  css/  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm -r Farhan
+rm: cannot remove 'Farhan': No such file or directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm -rf Farhan
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  css/  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ cd ..
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ ls
+'My Music'@  'My Pictures'@  'My Videos'@  'Visual Code'/   class1/   desktop.ini
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ doc
+DockInterface.ProxyStub.dll    Docking.VirtualInput.dll       DocumentPerformanceEvents.dll  docprop.dll                    docx2txt                       docx2txt.pl
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ ls
+'My Music'@  'My Pictures'@  'My Videos'@  'Visual Code'/   class1/   desktop.ini
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ cd class1/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  css/  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm css
+rm: cannot remove 'css': Is a directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm -r css
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$
+----------------------------------------------------------------------------------------------------------------------------
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ pwd
+/c/Users/Administrator
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+'VS Class 1'/
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ cd Documents/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ ls
+'My Music'@  'My Pictures'@  'My Videos'@  'Visual Code'/   class1/   desktop.ini
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ rm desktop.ini
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ ls
+'My Music'@  'My Pictures'@  'My Videos'@  'Visual Code'/   class1/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ cd class1/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ rm -r mussadiq
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+country.xl  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ mkdir Mussadiq
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  country.xl  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ mkdir amir
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  amir/  country.xl  html/  java/  mussadiq.dom
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ touch store.doc hbl.css allied.html
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$ ls
+Mussadiq/  allied.html  amir/  country.xl  hbl.css  html/  java/  mussadiq.dom  store.doc
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/class1
+$

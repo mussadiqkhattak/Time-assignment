@@ -1,0 +1,211 @@
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/  mussadiq/  Riaz/  saleem/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$
+
+------------------------------------------------------------------
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/class1/mussadiq
+$ cd c:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ pwd
+/c
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ ls
+'$Recycle.Bin'/             DumpStack.log       MSOCache/        'Program Files (x86)'/  'System Volume Information'/
+'$WinREAgent'/              DumpStack.log.tmp   pagefile.sys      ProgramData/            TypingMaster11/
+ Chrone/                    hiberfil.sys        PerfLogs/         Recovery/               Users/
+'Documents and Settings'@   Intel/             'Program Files'/   swapfile.sys            Windows/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ cd Recovery/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c/Recovery
+$ ls
+OEM/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c/Recovery
+$
+-----------------------------------------------
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd e:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /e
+$ ls
+'$RECYCLE.BIN'/
+'[FreeCourseSite.com] Udemy - Android O & Java - The Complete Android Development Bootcamp'/
+'~$Aqib.docx'
+'~$llet surf account code and other information.docx'
+ 20170520_0901/
+ Aaqib.pdf
+ Aqib.docx
+ aqib.pdf
+'Asir Shahzad decoment'/
+ Books/
+'BS Computer Science'/
+ Camera/
+'Computer Parograme'/
+'Cv style'/
+ EstateAgency/
+'General knowledge about name'/
+'How To FIX-Repair A Corrupted USB Flash Drive or SD Card Urdu- Hindi Tutorial.mp4'
+'lahore tour'/
+'Program with yaseen'/
+'System Volume Information'/
+'Treasure of knowledge 3rd Edition_compressed.pdf'
+'Wallet surf account code and other information.docx'
+'Yasir Camera'/
+'Yasir Personal Folder'/
+'Yasir Shahzad'/
+'Yasir Shahzad and his life.docx'
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /e
+$ 
+-------------------------------------------
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd VisualStudioCode/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/  mussadiq/  Riaz/  saleem/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd jahangir window tabel chai
+bash: cd: too many arguments
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir jahangir
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir chair tabel 
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  chair/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  tabel/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$
+-------------------------------------------------------------------
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1/Yasir
+$ ls
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1/Yasir
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  chair/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  tabel/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$
+-------------------------------------------------------------
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ pwd
+/c/Users/Administrator/Documents/Visual Code/Class 1
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ ls
+images/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ mkdir scripts styles
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ ls
+images/  scripts/  styles/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$
+ *  History restored 
+
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$
+ *  History restored 
+
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$
+---------------------------------------------------------------------
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ cd styles
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1/styles
+$ cd ..
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ cd f:
+bash: cd: f:: No such file or directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ cd e:
+bash: cd: e:: No such file or directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ cd g:
+bash: cd: g:: No such file or directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ cd ..
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code
+$ cd Class\ 1/
+-------------------------------------------------------------
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ ls
+dimond/  images/  khan/  ktk/  musssadiq/  neutral/  oposite/  scripts/  styles/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ cd k
+khan/ ktk/  
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ cd khan
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1/khan
+$
+-------------------------------------------------------------------------
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$ pwd
+/c/Users/Administrator/Documents/Visual Code/Class 1
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/Visual Code/Class 1
+$
+
+---
